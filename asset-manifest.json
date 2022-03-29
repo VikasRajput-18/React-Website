@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.58a9e43c.css",
+    "main.js": "/React-Website/static/js/main.9864e633.js",
+    "static/media/girl.png": "/React-Website/static/media/girl.7b3d86fa537cb3ebdba6.png",
+    "static/media/model.jpg": "/React-Website/static/media/model.4de91554993ef2462d45.jpg",
+    "static/media/blog3.jpg": "/React-Website/static/media/blog3.6799d29fcee6168c3af4.jpg",
+    "static/media/myPic.png": "/React-Website/static/media/myPic.d616194c3bc27f032c91.png",
+    "static/media/seasonsale.jpg": "/React-Website/static/media/seasonsale.d348e48b1a29be3d9e26.jpg",
+    "static/media/blog2jpg.jpg": "/React-Website/static/media/blog2jpg.d6a2a77e510a89e8ad27.jpg",
+    "static/media/shop.jpg": "/React-Website/static/media/shop.a12c57d2461c73baaa38.jpg",
+    "static/media/blog1.jpg": "/React-Website/static/media/blog1.ab5c3b8fd3cc4082981d.jpg",
+    "index.html": "/React-Website/index.html",
+    "main.58a9e43c.css.map": "/React-Website/static/css/main.58a9e43c.css.map",
+    "main.9864e633.js.map": "/React-Website/static/js/main.9864e633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a9e43c.css",
+    "static/js/main.9864e633.js"
+  ]
+}
